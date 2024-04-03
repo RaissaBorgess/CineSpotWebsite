@@ -15,6 +15,8 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
+        List<Filme> filmes = GetFilmes();
+        List<Genero> generos = GetGeneros()
         return View();
     }
 
