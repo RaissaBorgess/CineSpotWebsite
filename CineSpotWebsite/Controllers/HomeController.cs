@@ -16,14 +16,19 @@ public class HomeController : Controller
     public IActionResult Index()
     {
         List<Filme> filmes = GetFilmes();
-        List<Genero> generos = GetGeneros()
+        List<Genero> generos = GetGeneros();
+        ViewData["Generos"] = generos;
+        return View(filmes);
+    }
+
+    public IActionResult Details(int id)
+    {
+        List<Filme> filmes = GetFilmes();
+        List<Genero> generos =GetGeneros();
         return View();
     }
 
-    public IActionResult Privacy()
-    {
-        return View();
-    }
+
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()

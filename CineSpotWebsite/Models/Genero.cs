@@ -1,6 +1,6 @@
 namespace CineSpotWebsite.Models;
 
-    public class Generos
+    public class Genero
     {
         public string Nome { get; set; }
         public string Cor { get; set; }

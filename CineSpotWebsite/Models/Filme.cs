@@ -1,6 +1,6 @@
 namespace CineSpotWebsite.Models
 {
-    public class Filmes
+    public class Filme
     {
         public int Numero { get; set; }
         public string Nome { get; set; }
