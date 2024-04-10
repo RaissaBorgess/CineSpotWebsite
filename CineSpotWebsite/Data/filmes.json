@@ -2,100 +2,217 @@
     {
       "Numero": 1,
       "Nome": "10 Coisas que eu odeio em você",
-      "Sinopse": "Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Ao absorver os raios do sol, sua semente cresce progressivamente.",
-      "Gênero": [ "Romance"] ,
-      "Duração": 0.7,
+      "Sinopse": "Bianca Stratford é bonita e popular, mas não pode namorar antes que sua irmã mais velha encontre um namorado primeiro. O problema é que nenhum garoto consegue chegar perto da irmã, Kat Stratford. Para resolver a situação, um rapaz interessado em Bianca suborna um amigo com passado misterioso para sair com Kat e, quem sabe, tentar conquistá-la.",
+      "Genero": [ "Romance"] ,
+      "Duracao": 0.7,
       "Ano": 6.9,
-      "Imagem": "\\img\\pokemons\\001.png"
+      "Imagem": "\\img\\01.jpg"
     },
     {
       "Numero": 2,
       "Nome": "(500) dias com ela",
-      "Sinopse": "Há um broto nas costas desse Pokémon. Para suportar seu peso, as pernas e o tronco de Ivysaur ficam grossos e fortes. Se começar a passar mais tempo deitado sob a luz do sol, é um sinal de que o broto florescerá em uma flor grande em breve.",    
-      "Gênero": [ "Romance" ],
-      "Duração": 1,
+      "Sinopse": "Um romântico escritor se surpreende quando sua namorada Summer termina o namoro repentinamente. Com isso, ele relembra vários momentos dos 500 dias que passaram juntos para tentar descobrir onde seu caso de amor se perdeu e vai redescobrindo suas verdadeiras paixões.",    
+      "Genero": [ "Romance" ],
+      "Duracao": 1,
       "Ano": 13,
-      "Imagem": "\\img\\pokemons\\002.png"
+      "Imagem": "\\img\\02.jpg"
     },
     {
       "Numero": 3,
       "Nome": "De repente 30",
       "Sinopse": "Há uma flor grande nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
-      "Gênero": [ "Romance" ],
-      "Duração": 2,
+      "Genero": [ "Romance" ],
+      "Duracao": 2,
       "Ano": 100,
-      "Imagem": "\\img\\pokemons\\003.png"
+      "Imagem": "\\img\\11.jpg"
     },
     {
       "Numero": 4,
       "Nome": "Mamma Mia!",
       "Descricao": "A chama que queima na ponta da cauda é uma indicação de suas emoções. A chama tremula quando Charmander está se divertindo. Se o Pokémon se enfurecer, a chama queima ferozmente.",
-      "Gênero": [ "Romance" ],
-      "Duração": 0.6,
+      "Genero": [ "Romance" ],
+      "Duracao": 0.6,
       "Ano": 8.5,
-      "Imagem": "\\img\\pokemons\\004.png"
+      "Imagem": "\\img\\15.jpg"
     },
     {
       "Numero": 5,
       "Nome": "Mamma Mia! Here we go again",
       "Sinopse": "Charmeleon impiedosamente destrói seus inimigos usando suas garras afiadas. Se encontrar um inimigo forte, ele se torna agressivo. Nesse estado excitado, a chama na ponta de sua cauda brilha com uma cor branca azulada.",
-      "Gênero": [ "Romance" ],
-      "Duração": 1.1,
+      "Genero": [ "Romance" ],
+      "Duracao": 1.1,
       "Ano": 19,
-      "Imagem": "\\img\\pokemons\\005.png"
+      "Imagem": "\\img\\16.jpg"
     },
     {
       "Numero": 6,
       "Nome": "Como perder um homem em 10 dias",
       "Sinopse": "Charizard voa pelo céu em busca de oponentes poderosos. Ele respira um calor tão grande que derrete qualquer coisa. No entanto, nunca dá um sopro ardente a qualquer oponente mais fraco que ele.",
-      "Gênero": [ "Romance" ],
-      "Duração": 1.7,
+      "Genero": [ "Romance" ],
+      "Duracao": 1.7,
       "Ano": 90.5,
-      "Imagem": "\\img\\pokemons\\006.png"
+      "Imagem": "\\img\\10.jpg"
     },
     {
       "Numero": 7,
       "Nome": "Um lugar chamado Nothing Hill",
       "Sinopse": "A concha de Squirtle não é apenas usada para proteção. A forma arredondada da concha e as ranhuras na superfície ajudam a minimizar a resistência na água, permitindo que este Pokémon nade em alta velocidade.",
-      "Gênero": [ "Romance" ],
-      "Duração": 0.5,
+      "Genero": [ "Romance" ],
+      "Duracao": 0.5,
       "Ano": 9,
-      "Imagem": "\\img\\07.png"
+      "Imagem": "\\img\\23.jpg"
     },
     {
       "Numero": 8,
       "Nome": "Todos menos você",
       "Sinopse": "Sua cauda é grande e coberta com um pêlo rico e grosso. A cauda torna-se cada vez mais profunda na cor à medida que Wartortle envelhece. Os arranhõees em sua concha são uma evidência da dureza deste Pokémon como um lutador.",
-      "Gênero": [ "Romance" ],
-      "Duração": 1,
+      "Genero": [ "Romance" ],
+      "Duracao": 1,
       "Ano": 22.5,
-      "Imagem": "\\img\\pokemons\\008.png"
+      "Imagem": "\\img\\24.jpg"
     },
     {
       "Numero": 9,
       "Nome": "A cinco passos de você",
       "Sinopse": "Blastoise tem bicos de água que se projetam de sua concha. Os bicos de água são muito precisos. Eles podem disparar balas de água com precisão suficiente para atingir latas vazias a uma distância de mais de 60 metros.",
-      "Gênero": [ "Comédis romântica" ],
-      "Duração": 1.6,
+      "Genero": [ "Comédia romãntica" ],
+      "Duracao": 1.6,
       "Ano": 85.5,
-      "Imagem": "\\img\\pokemons\\009.png"
+      "Imagem": "\\img\\03.jpg"
     },
     {
       "Numero": 10,
       "Nome": "A barraca do beijo",
       "Sinopse": "Caterpie tem um apetite voraz. Ele pode devorar folhas maiores que seu corpo diante dos seus olhos. De sua antena, este Pokémon libera um odor terrivelmente forte.",
-      "Gênero": [ "Comédia romãntica" ],
-      "Duração": 0.3,
+      "Genero": [ "Comédia romãntica" ],
+      "Duracao": 0.3,
       "Ano": 2.9,
-      "Imagem": "\\img\\pokemons\\010.png"
+      "Imagem": "\\img\\08.jpg"
     },
     {
       "Numero": 11,
       "Nome": "Para todos os garotos que eu já amei",
       "Sinopse": "A concha que cobre o corpo deste Pokémon é tão dura quanto uma laje de ferro. Metapod não se move muito. Ele fica parado porque estã preparando suas entranhas suaves para a evolução dentro da casca dura.",
-      "Gênero": [ "Comédia romãntica" ],
-      "Duração": 0.7,
+      "Genero": [ "Comédia romãntica" ],
+      "Duracao": 0.7,
       "Ano": 9.9,
-      "Imagem": "\\img\\pokemons\\011.png"
+      "Imagem": "\\img\\20.jpg"
     },
+    {
+      "Numero": 12,
+      "Nome": "Através da minha janela",
+      "Sinopse": "A concha que cobre o corpo deste Pokémon é tão dura quanto uma laje de ferro. Metapod não se move muito. Ele fica parado porque estã preparando suas entranhas suaves para a evolução dentro da casca dura.",
+      "Genero": [ "Comédia romãntica" ],
+      "Duracao": 0.7,
+      "Ano": 9.9,
+      "Imagem": "\\img\\07.jpg"
+    },
+    {
+      "Numero": 13,
+      "Nome": "Como eu era antes de você",
+      "Sinopse": "A concha que cobre o corpo deste Pokémon é tão dura quanto uma laje de ferro. Metapod não se move muito. Ele fica parado porque estã preparando suas entranhas suaves para a evolução dentro da casca dura.",
+      "Genero": [ "Comédia romãntica" ],
+      "Duracao": 0.7,
+      "Ano": 9.9,
+      "Imagem": "\\img\\09.jpg"
+    },
+    {
+      "Numero": 14,
+      "Nome": "Minha culpa",
+      "Sinopse": "A concha que cobre o corpo deste Pokémon é tão dura quanto uma laje de ferro. Metapod não se move muito. Ele fica parado porque estã preparando suas entranhas suaves para a evolução dentro da casca dura.",
+      "Genero": [ "Comédia romãntica" ],
+      "Duracao": 0.7,
+      "Ano": 9.9,
+      "Imagem": "\\img\\17.jpg"
+    },
+    {
+      "Numero": 15,
+      "Nome": "Simplesmente acontece",
+      "Sinopse": "A concha que cobre o corpo deste Pokémon é tão dura quanto uma laje de ferro. Metapod não se move muito. Ele fica parado porque estã preparando suas entranhas suaves para a evolução dentro da casca dura.",
+      "Genero": [ "Comédia romãntica" ],
+      "Duracao": 0.7,
+      "Ano": 9.9,
+      "Imagem": "\\img\\21.jpg"
+    },
+    {
+      "Numero": 16,
+      "Nome": "Depois do universo",
+      "Sinopse": "A concha que cobre o corpo deste Pokémon é tão dura quanto uma laje de ferro. Metapod não se move muito. Ele fica parado porque estã preparando suas entranhas suaves para a evolução dentro da casca dura.",
+      "Genero": [ "Comédia romãntica" ],
+      "Duracao": 0.7,
+      "Ano": 9.9,
+      "Imagem": "\\img\\12.jpg"
+    },
+    {
+      "Numero": 17,
+      "Nome": "A freira",
+      "Sinopse": "A concha que cobre o corpo deste Pokémon é tão dura quanto uma laje de ferro. Metapod não se move muito. Ele fica parado porque estã preparando suas entranhas suaves para a evolução dentro da casca dura.",
+      "Genero": [ "Terror" ],
+      "Duracao": 0.7,
+      "Ano": 9.9,
+      "Imagem": "\\img\\04.jpg"
+    },
+    {
+      "Numero": 18,
+      "Nome": "A morte do demônio; a ascensão",
+      "Sinopse": "A concha que cobre o corpo deste Pokémon é tão dura quanto uma laje de ferro. Metapod não se move muito. Ele fica parado porque estã preparando suas entranhas suaves para a evolução dentro da casca dura.",
+      "Genero": [ "Terror" ],
+      "Duracao": 0.7,
+      "Ano": 9.9,
+      "Imagem": "\\img\\05.jpg"
+    },
+    {
+      "Numero": 19,
+      "Nome": "Annabelle",
+      "Sinopse": "A concha que cobre o corpo deste Pokémon é tão dura quanto uma laje de ferro. Metapod não se move muito. Ele fica parado porque estã preparando suas entranhas suaves para a evolução dentro da casca dura.",
+      "Genero": [ "Terror" ],
+      "Duracao": 0.7,
+      "Ano": 9.9,
+      "Imagem": "\\img\\06.jpg"
+    },
+    {
+      "Numero": 20,
+      "Nome": "Invocação do Mal",
+      "Sinopse": "A concha que cobre o corpo deste Pokémon é tão dura quanto uma laje de ferro. Metapod não se move muito. Ele fica parado porque estã preparando suas entranhas suaves para a evolução dentro da casca dura.",
+      "Genero": [ "Terror" ],
+      "Duracao": 0.7,
+      "Ano": 9.9,
+      "Imagem": "\\img\\13.jpg"
+    },
+    {
+      "Numero": 20,
+      "Nome": "It a coisa",
+      "Sinopse": "A concha que cobre o corpo deste Pokémon é tão dura quanto uma laje de ferro. Metapod não se move muito. Ele fica parado porque estã preparando suas entranhas suaves para a evolução dentro da casca dura.",
+      "Genero": [ "Terror" ],
+      "Duracao": 0.7,
+      "Ano": 9.9,
+      "Imagem": "\\img\\14.jpg"
+    },
+    {
+      "Numero": 21,
+      "Nome": "O exorcismo de Emily Rose",
+      "Sinopse": "A concha que cobre o corpo deste Pokémon é tão dura quanto uma laje de ferro. Metapod não se move muito. Ele fica parado porque estã preparando suas entranhas suaves para a evolução dentro da casca dura.",
+      "Genero": [ "Terror" ],
+      "Duracao": 0.7,
+      "Ano": 9.9,
+      "Imagem": "\\img\\18.jpg"
+    },
+    {
+      "Numero": 22,
+      "Nome": "Pânico",
+      "Sinopse": "A concha que cobre o corpo deste Pokémon é tão dura quanto uma laje de ferro. Metapod não se move muito. Ele fica parado porque estã preparando suas entranhas suaves para a evolução dentro da casca dura.",
+      "Genero": [ "Terror" ],
+      "Duracao": 0.7,
+      "Ano": 9.9,
+      "Imagem": "\\img\\19.jpg"
+    },
+    {
+      "Numero": 23,
+      "Nome": "Terrified",
+      "Sinopse": "A concha que cobre o corpo deste Pokémon é tão dura quanto uma laje de ferro. Metapod não se move muito. Ele fica parado porque estã preparando suas entranhas suaves para a evolução dentro da casca dura.",
+      "Genero": [ "Terror" ],
+      "Duracao": 0.7,
+      "Ano": 9.9,
+      "Imagem": "\\img\\22.jpg"
+    }
 ]

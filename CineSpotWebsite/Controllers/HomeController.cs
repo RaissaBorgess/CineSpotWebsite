@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using CineSpotWebsite.Models;
+using System.Text.Json;
 
 namespace CineSpotWebsite.Controllers;
 
@@ -25,9 +26,37 @@ public class HomeController : Controller
     {
         List<Filme> filmes = GetFilmes();
         List<Genero> generos =GetGeneros();
-        return View();
+        DetailsVM details = new() {
+        Generos = generos,
+        Atual = filmes.FirstOrDefault( p => p.Numero == id),
+        Anterior = filmes.OrderByDescending( p => p.Numero).FirstOrDefault(p => p.Numero < id),
+        Proximo = filmes.OrderBy(p => p.Numero).FirstOrDefault(p => p.Numero > id),
+        };
+        return View(details);
     }
 
+    private List<Filme> GetFilmes()
+    {
+        using (StreamReader leitor = new("Data\\filmes.json"))
+        {
+            string dados = leitor.ReadToEnd();
+            return JsonSerializer.Deserialize<List<Filme>>(dados);
+        }
+}
+
+    private List<Genero> GetGeneros() 
+    {
+    using (StreamReader leitor = new("Data\\generos.json"))
+    {
+        string dados = leitor.ReadToEnd();
+        return JsonSerializer.Deserialize<List<Genero>>(dados);
+    }
+}
+
+    public IActionResult Privacy()
+    {
+        return View();
+    }
 
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
@@ -36,3 +65,4 @@ public class HomeController : Controller
         return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
 }
+
